@@ -3,8 +3,8 @@
 ## Sobre mim
 
 - 🎓 Estudando **Engenharia de Software** na **Estácio**.
-- 💼 Atualmente trabalho fora da área de desenvolvimento, mas meu sonho é começar em breve.
-- 🌱 Atualmente estou me empenhando em aprender mais Front-End.
+- 💼 Atualmente trabalho fora da área de desenvolvimento, mas meu sonho é começ1ar em breve.
+- 🌱 Atualmente estou me empenhando em ser um profissional completo, full-stack.
 
 ## Minhas Skills
 
