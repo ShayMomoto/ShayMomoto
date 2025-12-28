@@ -32,8 +32,10 @@ Sou um entusiasta da tecnologia em transição de carreira. Atualmente cursando 
 <br/>
 
 **Back-End & Core**<br/>
+**Back-End & Core**<br/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 <br/>
 
